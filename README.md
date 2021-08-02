@@ -5,5 +5,7 @@ Este projeto utilizei as tecnologias Bootstrap + CSS + Javascript puro para cons
 Para rodar o projeto basta fazer um clone do diretório em sua máquina e abrir o arquivo index.html em seu navegador.
 
 -Quando for colocado um CEP corretamente, retornará os campos preenchidos;
+
 -Quando for colocado um CEP com algum caractere além de númerico, será aberto um alert informando que o CEP está incorreto;
+
 -Quando for colocado um CEP que não existe, será aberto um alert informando que o CEP não foi encontrado.
